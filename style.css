@@ -1,0 +1,18 @@
+#title{
+color: rgb(51, 13, 13);
+text-align: center;
+margin-top: 10px
+}
+.tarjeta{
+    width: 30%;
+}
+#boton{
+    width: 120px;
+    margin: 0 auto;
+}
+#boton:hover{
+    color: blueviolet;
+}
+#campo:focus::placeholder {
+    opacity: 0;
+}
